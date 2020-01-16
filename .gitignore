@@ -108,3 +108,19 @@ dist
 
 # Credentials files
 credentials/
+
+
+# Mobile .gitignore
+.expo/*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
